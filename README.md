@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=700&lines=Cloud+%26+DevOps+Engineer;Building+and+Automating+Infrastructure;AWS+%7C+Linux+%7C+Docker+%7C+CI%2FCD;Monitoring+Servers+with+Prometheus+%26+Grafana;Learning+Terraform+%26+Kubernetes" alt="Typing SVG" />
 </p>
-
 👨‍💻 About Me
 
 I'm a Cloud & DevOps Engineer with hands-on experience in AWS cloud infrastructure, Linux & Windows Server operations, monitoring, networking, Docker, Git, and automation.
@@ -46,41 +45,11 @@ IaC: Terraform — learning & hands-on practice
   <img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,githubactions" />
 </p>
 
-Git & GitHub
-
-Jenkins
-
-GitHub Actions
-
-Docker
-
-Basic CI/CD pipeline implementation
-
-Build & deployment automation
-
-Environment-based deployments
-
 📊 Monitoring & Observability
 
 <p>
   <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
-
-Prometheus
-
-Grafana
-
-Nagios
-
-CPU / Memory / Disk monitoring
-
-Network monitoring
-
-Metrics & alerting
-
-Server health checks
-
-Log monitoring & troubleshooting
 
 🖥️ Systems & Networking
 
